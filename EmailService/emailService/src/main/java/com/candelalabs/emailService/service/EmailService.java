@@ -25,8 +25,8 @@ public class EmailService {
 	private static final Logger logger = LoggerFactory.getLogger(EmailService.class);
 	public boolean sendMail() {
 
-		final String username = "vitkaryallappa@gmail.com";
-		final String password = "vitkar007";
+		final String username = "awplpresales2@gmail.com";
+		final String password = "awplawpl";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
