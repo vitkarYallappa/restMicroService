@@ -25,7 +25,7 @@ public class EmailService {
 	private static final Logger logger = LoggerFactory.getLogger(EmailService.class);
 	public boolean sendMail() {
 
-		final String username = "awplpresales2@gmail.com";
+		final String username = "awplpresales6@gmail.com";
 		final String password = "awplawpl";
 
 		Properties props = new Properties();
